@@ -5,9 +5,11 @@ Vue CRUD app.
 Main features:
 - User registraction & login panel with JSON Web Token authorization
 - Blog post panel
+- Upload images
 - Comments on blog post for login user
 - Register panel for the travel destination
 - Rating panel for travel
+
 
 Backend side on Express.js
 Json Web Token for authorization and Bcrypt for secure password
