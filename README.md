@@ -10,7 +10,7 @@ Main features:
 - Rating panel for travel
 
 Backend side on Express.js
-Json Web Token for authorization and Bcript for secure password
+Json Web Token for authorization and Bcrypt for secure password
 
 MongoDB 
 
