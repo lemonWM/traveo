@@ -6,7 +6,7 @@ Main features:
 - User registraction & login panel with JSON Web Token authorization
 - Blog post panel
 - Upload images
-- Comments on blog post for login user
+- Comments on blog post for logged user
 - Register panel for the travel destination
 - Rating panel for travel
 
