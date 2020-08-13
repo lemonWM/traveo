@@ -1,6 +1,19 @@
 # traveo
 
-> A Vue.js project
+Vue CRUD app. 
+
+Main features:
+- User registraction & login panel with JSON Web Token authorization
+- Blog post panel
+- Comments on blog post for login user
+- Register panel for the travel destination
+- Rating panel for travel
+
+Backend side on Express.js
+Json Web Token for authorization and Bcript for secure password
+
+MongoDB 
+
 
 ## Build Setup
 
