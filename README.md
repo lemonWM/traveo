@@ -16,6 +16,12 @@ Json Web Token for authorization and Bcrypt for secure password
 
 MongoDB 
 
+live:
+https://traveo.netlify.app/
+
+heroku free backend server, will be active after short delay on first run
+
+
 
 ## Build Setup
 
