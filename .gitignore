@@ -1,0 +1,15 @@
+.DS_Store
+node_modules/
+node mongodb heroku/
+build/
+config/
+.DS_Store *
+package-lock.json*
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
