@@ -6,6 +6,7 @@ config/
 .DS_Store *
 package-lock.json*
 
+
 # Editor directories and files
 .idea
 .vscode
