@@ -11,8 +11,10 @@ Main features:
 - Rating panel for travel
 
 
-Backend side on Express.js
-Json Web Token for authorization and Bcrypt for secure password
+Backend side: 
+- Express.js
+- Json Web Token for authorization
+- bcrypt hashing password
 
 MongoDB 
 
@@ -20,7 +22,6 @@ live:
 https://traveo.netlify.app/
 
 heroku free backend server, will be active after short delay on first run
-
 
 
 ## Build Setup
@@ -38,5 +39,3 @@ npm run build
 # build for production and view the bundle analyzer report
 npm run build --report
 ```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
