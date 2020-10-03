@@ -21,6 +21,9 @@ Main features:
 
 ![alt](https://res.cloudinary.com/donmoqxem/image/upload/v1601719940/github_markdown/Zrzut_ekranu_2020-10-3_o_12.07.52_aublhk.png)
 
+- User dashboard panel with logo uploader & personal information update
+
+![alt](https://res.cloudinary.com/donmoqxem/image/upload/v1601720638/github_markdown/Zrzut_ekranu_2020-10-3_o_12.23.29_ytcouo.png)
 
 Backend side: 
 - Express.js
