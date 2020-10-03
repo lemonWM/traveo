@@ -3,12 +3,23 @@
 Vue CRUD app. 
 
 Main features:
-- User registraction & login panel with JSON Web Token authorization
-- Blog post panel
+- User registraction & login panel with JSON Web Token authorization and bcript hash password
+
+![alt](https://res.cloudinary.com/donmoqxem/image/upload/v1601719934/github_markdown/Zrzut_ekranu_2020-10-3_o_12.08.26_jeq25g.png)
+
+- Blog new post panel creator
+
+![alt](https://res.cloudinary.com/donmoqxem/image/upload/v1601719934/github_markdown/Zrzut_ekranu_2020-10-3_o_12.07.28_xwsyos.png)
+
 - Upload images
 - Comments on blog post for logged user
+
+![alt](https://res.cloudinary.com/donmoqxem/image/upload/v1601719941/github_markdown/Zrzut_ekranu_2020-10-3_o_12.09.26_golwdt.png)
+
 - Register panel for the travel destination
-- Rating panel for travel
+- Rating panel for travel and show best rated by user
+
+![alt](https://res.cloudinary.com/donmoqxem/image/upload/v1601719940/github_markdown/Zrzut_ekranu_2020-10-3_o_12.07.52_aublhk.png)
 
 
 Backend side: 
@@ -20,8 +31,6 @@ MongoDB
 
 live:
 https://traveo.netlify.app/
-
-heroku free backend server, will be active after short delay on first run
 
 
 ## Build Setup
