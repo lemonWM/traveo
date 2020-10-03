@@ -16,7 +16,10 @@ Main features:
 
 ![alt](https://res.cloudinary.com/donmoqxem/image/upload/v1601719941/github_markdown/Zrzut_ekranu_2020-10-3_o_12.09.26_golwdt.png)
 
-- Register panel for the travel destination
+- Reservation panel for the travel destination
+
+![alt](https://res.cloudinary.com/donmoqxem/image/upload/v1601732297/github_markdown/Zrzut_ekranu_2020-10-3_o_15.37.27_dn8iuy.png)
+
 - Rating panel for travel and show best rated by user
 
 ![alt](https://res.cloudinary.com/donmoqxem/image/upload/v1601719940/github_markdown/Zrzut_ekranu_2020-10-3_o_12.07.52_aublhk.png)
